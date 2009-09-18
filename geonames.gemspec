@@ -2,7 +2,7 @@ require 'rubygems'
 require 'date'
 
 SPEC = Gem::Specification.new do |s| 
-  s.name = "geonames" 
+  s.name = "geonames_patched" 
   s.version = "0.2.2" 
   s.author = "Adam Wisniewski" 
   s.email = "adamw@tbcn.ca" 
