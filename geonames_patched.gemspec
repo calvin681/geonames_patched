@@ -7,7 +7,7 @@ SPEC = Gem::Specification.new do |s|
   s.author = "Adam Wisniewski" 
   s.email = "adamw@tbcn.ca" 
   s.date = s.date = Date.today.to_s
-  s.homepage = "http://www.tbcn.ca/ruby_geonames" 
+  s.homepage = "http://github.com/calvin681/geonames_patched" 
   s.platform = Gem::Platform::RUBY 
   s.summary = "Ruby library for Geonames Web Services (http://www.geonames.org/export/)" 
   candidates = Dir.glob("{bin,docs,lib,test}/**/*") 
